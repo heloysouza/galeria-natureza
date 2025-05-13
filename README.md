@@ -33,6 +33,7 @@ galeria-natureza/
 ├── praia.jpg
 ├── deserto.jpg
 └── lago.jpg
+└── ilhas.jpg
 
 
 ## ⚙️ Como Executar
